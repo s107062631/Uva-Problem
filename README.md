@@ -4,5 +4,5 @@
 * Here is the [NTHU Online Judge Website](https://acm.cs.nthu.edu.tw/)
 <hr></hr>
 
-* If you have any question or find something wrong in my code, please email me and thank you for your help.
+* If you have any further question or find something wrong in my code, please feel free to email me and thank you for your help.
 * My email: stu107062631@gapp.nthu.edu.tw
