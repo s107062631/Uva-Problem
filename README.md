@@ -4,5 +4,9 @@
 * Here is the [NTHU Online Judge Website](https://acm.cs.nthu.edu.tw/)
 <hr></hr>
 
+* Not completed:
+  * Problems: 10905, 4076, 4075 
+<hr></hr>
+
 * If you have any further question or find something wrong in my code, please feel free to email me and thank you for your help.
 * My email: stu107062631@gapp.nthu.edu.tw
